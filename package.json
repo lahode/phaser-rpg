@@ -1,0 +1,15 @@
+{
+  "name": "phaser3-rpg",
+  "version": "1.0.0",
+  "description": "Base d'un petit jeu style Zelda sur Phaser",
+  "main": "main.js",
+  "scripts": {
+    "start": "http-server -p 9000.",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
